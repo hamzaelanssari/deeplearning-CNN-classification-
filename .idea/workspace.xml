@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3ba124a-bd28-4aef-9692-f912224ba90e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c34aH0ZlbrJbqDZ7wNfgVxvV8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Diabetes" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\deeplearning4jProject\src\main\resources\Iris" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Titanic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\deeplearning4jProject\src\main\java\Diabetes" />
+      <recent name="E:\deeplearning4jProject\src\main\resources\Titanic" />
+      <recent name="E:\[FreeCourseSite.com] Udemy - Artificial Intelligence I Basics and Games in Java\11. Course Materials (DOWNLOADS)\AISourceCode\deeplearning4jProject\src\main\java" />
+      <recent name="E:\[FreeCourseSite.com] Udemy - Artificial Intelligence I Basics and Games in Java\11. Course Materials (DOWNLOADS)\AISourceCode\deeplearning4jProject\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AlphabetsCNN">
+    <configuration name="AlphabetsCNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModelAlphabets.AlphabetsCNN" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ModelAlphabets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankNoteApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankNote.BankNoteApp" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankNote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CNNModel" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModelNumbers.CNNModel" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiabetesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diabetes.DiabetesApp" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diabetes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiabetesPrediction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diabetes.DiabetesPrediction" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diabetes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IrisApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Iris.IrisApp" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IrisPrediction" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Iris.IrisPrediction" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitanicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Titanic.TitanicApp" />
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankNote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="deeplearning4jProject" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlphabetsCNN" />
+        <item itemvalue="Application.DiabetesPrediction" />
+        <item itemvalue="Application.DiabetesApp" />
+        <item itemvalue="Application.BankNoteApp" />
+        <item itemvalue="Application.TitanicApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ba124a-bd28-4aef-9692-f912224ba90e" name="Default Changelist" comment="" />
+      <created>1589744007040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589744007040</updated>
+      <workItem from="1589744034767" duration="3953000" />
+      <workItem from="1589748924369" duration="8899000" />
+      <workItem from="1589758512547" duration="2389000" />
+      <workItem from="1589761584872" duration="418000" />
+      <workItem from="1589763799154" duration="3728000" />
+      <workItem from="1589815441079" duration="2432000" />
+      <workItem from="1589826504196" duration="6216000" />
+      <workItem from="1589841038934" duration="1072000" />
+      <workItem from="1589842971184" duration="1690000" />
+      <workItem from="1589849634236" duration="443000" />
+      <workItem from="1589851355419" duration="601000" />
+      <workItem from="1589853254294" duration="84000" />
+      <workItem from="1589853552144" duration="4716000" />
+      <workItem from="1589894336042" duration="11798000" />
+      <workItem from="1589928421973" duration="10146000" />
+      <workItem from="1589945918826" duration="4327000" />
+      <workItem from="1589951597413" duration="547000" />
+      <workItem from="1589990359837" duration="6372000" />
+      <workItem from="1590007215248" duration="3601000" />
+      <workItem from="1590024320764" duration="1367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="14" width="584" height="709" key="#&lt;template&gt;_of_Application" timestamp="1589761861371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="400" y="14" width="584" height="709" key="#&lt;template&gt;_of_Application/0.0.1366.738@0.0.1366.738" timestamp="1589761861371" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589842198681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1589842198681" />
+    <state x="479" y="227" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589856871968">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="227" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1589856871968" />
+    <state x="437" y="83" key="DetectedRootsChooserDialog" timestamp="1589744618607">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="83" key="DetectedRootsChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1589744618607" />
+    <state x="389" y="109" key="FileChooserDialogImpl" timestamp="1589850395367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589850395367" />
+    <state width="1306" height="524" key="GridCell.Tab.0.bottom" timestamp="1590018968851">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="524" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590018968851" />
+    <state width="1306" height="524" key="GridCell.Tab.0.center" timestamp="1590018968851">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="524" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590018968851" />
+    <state width="1306" height="524" key="GridCell.Tab.0.left" timestamp="1590018968850">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="524" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590018968850" />
+    <state width="1306" height="524" key="GridCell.Tab.0.right" timestamp="1590018968851">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="524" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590018968851" />
+    <state x="263" y="102" key="IDE.errors.dialog" timestamp="1589894720884">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="102" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1589894720884" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1589746191554">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1589746191554" />
+    <state x="167" y="0" key="SettingsEditor" timestamp="1589841867481">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="167" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1589841867481" />
+    <state x="499" y="145" key="chooseDestDirectoryDialog" timestamp="1590004576316">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="499" y="145" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1590004576316" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590024504106">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1590024504106" />
+    <state x="387" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589745772301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="387" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1589745772301" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deeplearning4jProject$IrisApp.ic" NAME="IrisApp Coverage Results" MODIFIED="1589841699644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
